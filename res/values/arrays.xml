@@ -2,6 +2,5 @@
 <resources>
     <string-array name="unrestricted_packages">
         <item>com.facebook.katana</item>
-        <item>com.twitter.android</item>
     </string-array>
 </resources>
